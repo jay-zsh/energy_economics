@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#5cabf5",
+  "cssTheme": "Border",
+  "interfaceFontFamily": "Comic Sans MS,Myanmar Text,Inter",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "textFontFamily": "JetBrainsMonoNL Nerd Font,Agave Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
+}

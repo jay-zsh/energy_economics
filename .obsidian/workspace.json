@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "3ea1c756fc3c5659",
+    "type": "split",
+    "children": [
+      {
+        "id": "991ff213b18d819c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e1ff94410c0769c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "previos_works_AI_analysis/09.工业集聚的区域减排成本节约效应.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "09.工业集聚的区域减排成本节约效应"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24d881a884301934",
+    "type": "split",
+    "children": [
+      {
+        "id": "63690245cfd50c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c9e6e00f57b75d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "94a4b27535cf3b11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 513.5
+  },
+  "right": {
+    "id": "7df202f0f2720bd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f82d392d2d7e72a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf01aaf433021140",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "previos_works_AI_analysis/09.工业集聚的区域减排成本节约效应.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "09.工业集聚的区域减排成本节约效应 的大纲"
+            }
+          },
+          {
+            "id": "76934b3a0304b435",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false,
+      "excel:创建 Excel 文件": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "5e1ff94410c0769c",
+  "lastOpenFiles": [
+    "previos_works_AI_analysis/05.清洁发展机制对能源转型及其溢出效应的影响：来自中国城市的证据.md",
+    "previos_works_AI_analysis/01.利用LASSO-VAR和频率分解分析气候风险传染网络：在金融中实施脱碳策略未.md",
+    "previos_works_AI_analysis/31.聚类技术与发展的综述.md",
+    "previos_works_AI_analysis/33.五个主要能源期刊的比较文献计量分析.md",
+    "previos_works_AI_analysis/24.数字经济与城乡一体化的数据驱动协调与优化.md",
+    "charts/9972c1f1827fe087ac789cab5c607d64_MD5.jpg",
+    "charts/a2fe1459d46ec1c416c36e1075b5c67a_MD5.jpg",
+    "charts/e1ee9da4b4088e54c35544402b1f2a19_MD5.jpg",
+    "charts/3c731565d2ee5c6bd66d05d00572fb60_MD5.jpg",
+    "charts/46d4868fbeaff3c0a75f8de80c4bc584_MD5.jpg",
+    "previos_works_AI_analysis/11.基于代理视角的排放交易体系建模：企业减排选项协调中涌现的系统动力学.md",
+    "previos_works_AI_analysis/10.促进电费中环境收费的支付意愿：基于随机调查实验的证据.md",
+    "previos_works_AI_analysis/17.ESG报告语气与债券利差.md",
+    "previos_works_AI_analysis/32.基于双层次模糊决策方法的印度太阳能农场选址排名.md",
+    "charts/9de552f53bd85c702c2f946e8c360d57_MD5.jpg",
+    "charts/06fac01a173252446ef05d7e948af6d3_MD5.jpg",
+    "previos_works_AI_analysis/30.基于增强子聚类的自洽聚类分析用于编织复合材料热导率的高效均匀化.md",
+    "previos_works_AI_analysis/29.人工智能、云计算、区块链与能源转型时代的能源市场.md",
+    "charts/8f5b33b5fb8c1be3f4256a603c42534d_MD5.jpg",
+    "charts/72cfafb31d4a1f6a57fad8c2725273f0_MD5.jpg",
+    "charts/f850cb6fff27cb654ecbb09ecea51a60_MD5.jpg",
+    "previos_works_AI_analysis/28.弥合差距：人工智能与城市能源韧性之间的关联——来自中国低碳城市的证据.md",
+    "previos_works_AI_analysis/27.人工智能能否遏制漂绿？基于大语言模型的企业层面证据.md",
+    "previos_works_AI_analysis/26.机器替代的碳锁定和资源锁定效应：基于54个国家的证据.md",
+    "previos_works_AI_analysis/25.基于Z数的多准则决策组合权重方法.md",
+    "previos_works_AI_analysis/07.排放交易系统与低碳消费意识的协同效应：基于多主体模拟分析.md",
+    "previos_works_AI_analysis/23.数字转型与环境、社会和治理（ESG）漂绿：来自中国的证据.md",
+    "previos_works_AI_analysis/22.人工智能是否影响企业ESG绩效？来自中国准自然实验的证据.md",
+    "previos_works_AI_analysis/21.人工智能是否抑制企业的绿色清洗行为？基于中国机器人采用的证据.md",
+    "previos_works_AI_analysis/20.环境税是否影响企业ESG漂绿？基于中国的一项准自然实验.md",
+    "previos_works_AI_analysis/19.能源消费转型与中国地级市绿色全要素生产率.md",
+    "previos_works_AI_analysis/18.环境中央化与企业可持续发展：来自中国的证据.md",
+    "previos_works_AI_analysis/16.利用人工智能进行环境保护：油价波动下的智能空气质量管理.md",
+    "previos_works_AI_analysis/15.AI如何在中国数字前沿推动ESG绩效？.md",
+    "previos_works_AI_analysis/14.绿色创新如何影响空气污染？基于282个中国城市的分析.md",
+    "previos_works_AI_analysis/13.TFP是清洁的还是肮脏的？环境与经济效率之间的关系.md",
+    "charts",
+    "Excalidraw",
+    "previos_works_AI_analysis/利用LASSO-VAR和频率分解分析气候风险传染网络：在金融中实施脱碳策略未",
+    "未命名",
+    "previos_works_AI_analysis",
+    "previous_works/The pathway to curb greenwashing in sustainable growth_ The role of artificial intelligence/The pathway to curb greenwashing in sustainable growth_ The role of artificial intelligence.pdf",
+    "previous_works/A comparative bibliometric analysis of five major energy journals/A comparative bibliometric analysis of five major energy journals.pdf",
+    "previous_works/Artificial intelligence/code_data/0927New code and data_basic results(1)/5. Code and data for Table 2/data.xlsx",
+    "previous_works/Artificial intelligence/code_data/0927New code and data_basic results(1)/5. Code and data for Table 2/data.dta",
+    "previous_works/Artificial intelligence/code_data/0927New code and data_basic results(1)/5. Code and data for Table 2/Code.txt",
+    "未命名 1.canvas",
+    "未命名.canvas"
+  ]
+}
