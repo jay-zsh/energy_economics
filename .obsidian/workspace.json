@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Econom&Carbon Emmision&City Development/12.数字经济如何影响旅游业的碳排放？来自中国的经验证据.md",
+                "file": "Digital Econom&Carbon Emmision&City Development/06.碳减排发展、数字经济与中国制造业绿色转型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "12.数字经济如何影响旅游业的碳排放？来自中国的经验证据"
+              "title": "06.碳减排发展、数字经济与中国制造业绿色转型"
             }
           }
         ]
@@ -85,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Econom&Carbon Emmision&City Development/12.数字经济如何影响旅游业的碳排放？来自中国的经验证据.md",
+                "file": "Digital Econom&Carbon Emmision&City Development/06.碳减排发展、数字经济与中国制造业绿色转型.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12.数字经济如何影响旅游业的碳排放？来自中国的经验证据 的大纲"
+              "title": "06.碳减排发展、数字经济与中国制造业绿色转型 的大纲"
             }
           },
           {
@@ -125,21 +125,27 @@
   },
   "active": "76934b3a0304b435",
   "lastOpenFiles": [
-    "charts/09704622999d81e745d26c53bf11f015_MD5.jpg",
-    "Digital Econom&Carbon Emmision&City Development/10.数字经济对城市碳排放影响的研究.md",
-    "Digital Econom&Carbon Emmision&City Development/12.数字经济如何影响旅游业的碳排放？来自中国的经验证据.md",
+    "Digital Econom&Carbon Emmision&City Development/04.未来是数字化的：数字经济能否驱动海洋可持续性？探索中国沿海地区渔业碳减排的区域影响.md",
+    "Digital Econom&Carbon Emmision&City Development/07.基于偏向性技术进步视角的数字经济碳减排效应.md",
     "Digital Econom&Carbon Emmision&City Development/11.数字经济发展与中国三大城市群碳排放效率：绿色发展的U型旅程.md",
-    "Digital Econom&Carbon Emmision&City Development/02.数字经济与中国三大城市群碳排放效率：迈向绿色发展的U型旅程.md",
+    "Digital Econom&Carbon Emmision&City Development/14.数字经济对碳减排的动态影响：基于中国城市级实证数据的证据.md",
+    "Digital Econom&Carbon Emmision&City Development/15.农村数字经济发展对农业碳排放的影响：基于中国地级市的研究 1.md",
+    "Digital Econom&Carbon Emmision&City Development/16.数字经济驱动的脱碳路径：基于投入产出和情景分析的中国3060双碳目标研究.md",
     "Digital Econom&Carbon Emmision&City Development/01.碳排放减排发展、数字经济与中国制造业绿色转型.md",
+    "Digital Econom&Carbon Emmision&City Development/10.数字经济对城市碳排放影响的研究.md",
+    "Digital Econom&Carbon Emmision&City Development/未命名.md",
+    "Digital Econom&Carbon Emmision&City Development/13.数字经济有助于减少碳排放吗？中国城市级空间分析.md",
+    "charts/e2e8dc0cb6232ea39c9ff880662ec2da_MD5.jpg",
+    "Digital Econom&Carbon Emmision&City Development/12.数字经济如何影响旅游业的碳排放？来自中国的经验证据.md",
+    "charts/09704622999d81e745d26c53bf11f015_MD5.jpg",
+    "Digital Econom&Carbon Emmision&City Development/02.数字经济与中国三大城市群碳排放效率：迈向绿色发展的U型旅程.md",
     "Digital Econom&Carbon Emmision&City Development/09.数字经济背景下中国碳排放的时空演化模式与空间溢出效应.md",
     "Digital Econom&Carbon Emmision&City Development/08.数字经济对工业碳排放效率的影响研究——基于空间阈值模型的分析.md",
     "charts/5eb21d31ce53a98de5a8d93ea36ac403_MD5.jpg",
-    "Digital Econom&Carbon Emmision&City Development/07.基于偏向性技术进步视角的数字经济碳减排效应.md",
     "Digital Econom&Carbon Emmision&City Development/06.碳减排发展、数字经济与中国制造业绿色转型.md",
     "Scienc&Digital Economy&City and Countryside Integration/02.数据驱动的数字经济与城乡一体化协调与优化.md",
     "Digital Econom&Carbon Emmision&City Development/07.数据驱动的数字经济与城乡融合协调优化研究.md",
     "Digital Econom&Carbon Emmision&City Development/05.数字经济的双重碳排放效应：来自中国的证据.md",
-    "Digital Econom&Carbon Emmision&City Development/04.未来是数字化的：数字经济能否驱动海洋可持续性？探索中国沿海地区渔业碳减排的区域影响.md",
     "charts/cda7bb803aec00b2014b638735b23c15_MD5.jpg",
     "Digital Econom&Carbon Emmision&City Development/03.数字经济学、能源消费与城市碳减排：来自中国278个城市的实证证据.md",
     "Scienc&Digital Economy&City and Countryside Integration/04.数字经济驱动的脱碳路径：基于投入产出和情景分析的中国3060双碳目标研究.md",
@@ -152,10 +158,6 @@
     "Energy Economics/scheme.md",
     "Energy Economics/32.基于双层次模糊决策方法的印度太阳能农场选址排名.md",
     "Energy Economics/30.基于增强子聚类的自洽聚类分析用于编织复合材料热导率的高效均匀化.md",
-    "Energy Economics/28.弥合差距：人工智能与城市能源韧性之间的关联——来自中国低碳城市的证据.md",
-    "Energy Economics/25.基于Z数的多准则决策组合权重方法.md",
-    "Energy Economics/24.数字经济与城乡一体化的数据驱动协调与优化.md",
-    "Energy Economics/08.可持续增长的中国模式：清洁煤电的经济效应.md",
     "Digital Econom&Carbon Emmision&City Development",
     "Scienc&Digital Economy&City and Countryside Integration/digital-economy&",
     "Scienc&Digital Economy&City and Countryside Integration",
@@ -163,8 +165,6 @@
     "charts/Pasted image 20251113103912.png",
     "charts/9972c1f1827fe087ac789cab5c607d64_MD5.jpg",
     "charts/a2fe1459d46ec1c416c36e1075b5c67a_MD5.jpg",
-    "charts/e1ee9da4b4088e54c35544402b1f2a19_MD5.jpg",
-    "charts/3c731565d2ee5c6bd66d05d00572fb60_MD5.jpg",
     "charts",
     "Excalidraw",
     "previos_works_AI_analysis/利用LASSO-VAR和频率分解分析气候风险传染网络：在金融中实施脱碳策略未",
