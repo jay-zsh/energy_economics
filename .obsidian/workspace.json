@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "science_digital_economy_AI_Analysis/未命名.md",
+                "file": "science_digital_economy_AI_Analysis/01. 数字经济与乡村振兴耦合协调研究.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "01. 数字经济与乡村振兴耦合协调研究"
             }
           }
         ]
@@ -85,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "science_digital_economy_AI_Analysis/未命名.md",
+                "file": "science_digital_economy_AI_Analysis/01. 数字经济与乡村振兴耦合协调研究.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "01. 数字经济与乡村振兴耦合协调研究 的大纲"
             }
           },
           {
@@ -104,7 +104,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,10 +123,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c821ac509a567ecc",
+  "active": "76934b3a0304b435",
   "lastOpenFiles": [
+    "science_digital_economy_AI_Analysis/12.数字经济能否成功促进城乡融合发展：基于中国的案例研究.md",
+    "science_digital_economy_AI_Analysis/11.中国城乡一体化：农村宅基地转移在不同农村地区的作用.md",
+    "science_digital_economy_AI_Analysis/10.数字经济对绿色创新的空间溢出效应：基于循环经济视角的涓滴与虹吸效应分析.md",
+    "science_digital_economy_AI_Analysis/09.农村数字经济发展对农业碳排放的影响：基于中国地级市的研究.md",
+    "science_digital_economy_AI_Analysis/08.数字经济的演变：中美比较视角，1995-2020.md",
+    "science_digital_economy_AI_Analysis/未命名",
+    "science_digital_economy_AI_Analysis/07.数字经济促进养老产业发展的机制与路径研究.md",
+    "science_digital_economy_AI_Analysis/06.数字经济学对能源效率的影响：人工智能等新兴技术的作用.md",
+    "science_digital_economy_AI_Analysis/05.数字经济如何影响城乡收入差距？来自中国城市的证据.md",
     "science_digital_economy_AI_Analysis/04.数字经济驱动的脱碳路径：基于投入产出和情景分析的中国3060双碳目标研究.md",
-    "science_digital_economy_AI_Analysis/未命名.md",
     "science_digital_economy_AI_Analysis/03.数字经济发展、教育、人力资本与城乡收入差距.md",
     "science_digital_economy_AI_Analysis/02.数据驱动的数字经济与城乡一体化协调与优化.md",
     "science_digital_economy_AI_Analysis/01. 数字经济与乡村振兴耦合协调研究.md",
@@ -145,14 +154,7 @@
     "previos_works_AI_analysis/25.基于Z数的多准则决策组合权重方法.md",
     "previos_works_AI_analysis/24.数字经济与城乡一体化的数据驱动协调与优化.md",
     "previos_works_AI_analysis/23.数字转型与环境、社会和治理（ESG）漂绿：来自中国的证据.md",
-    "previos_works_AI_analysis/22.人工智能是否影响企业ESG绩效？来自中国准自然实验的证据.md",
-    "previos_works_AI_analysis/21.人工智能是否抑制企业的绿色清洗行为？基于中国机器人采用的证据.md",
-    "previos_works_AI_analysis/10.促进电费中环境收费的支付意愿：基于随机调查实验的证据.md",
     "charts/Pasted image 20251113103912.png",
-    "previos_works_AI_analysis/30.基于增强子聚类的自洽聚类分析用于编织复合材料热导率的高效均匀化.md",
-    "previos_works_AI_analysis/29.人工智能、云计算、区块链与能源转型时代的能源市场.md",
-    "previos_works_AI_analysis/26.机器替代的碳锁定和资源锁定效应：基于54个国家的证据.md",
-    "previos_works_AI_analysis/02.理解地缘政治背景下的能源安全：基于能源多样化指数分解的见解.md",
     "charts/9972c1f1827fe087ac789cab5c607d64_MD5.jpg",
     "charts/a2fe1459d46ec1c416c36e1075b5c67a_MD5.jpg",
     "charts/e1ee9da4b4088e54c35544402b1f2a19_MD5.jpg",
@@ -170,7 +172,6 @@
     "previous_works/A comparative bibliometric analysis of five major energy journals/A comparative bibliometric analysis of five major energy journals.pdf",
     "previous_works/Artificial intelligence/code_data/0927New code and data_basic results(1)/5. Code and data for Table 2/data.xlsx",
     "previous_works/Artificial intelligence/code_data/0927New code and data_basic results(1)/5. Code and data for Table 2/data.dta",
-    "previous_works/Artificial intelligence/code_data/0927New code and data_basic results(1)/5. Code and data for Table 2/Code.txt",
     "未命名 1.canvas"
   ]
 }
