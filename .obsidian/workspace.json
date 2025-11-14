@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e1ff94410c0769c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "previos_works_AI_analysis/28.弥合差距：人工智能与城市能源韧性之间的关联——来自中国低碳城市的证据.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "28.弥合差距：人工智能与城市能源韧性之间的关联——来自中国低碳城市的证据"
-            }
-          },
-          {
             "id": "c821ac509a567ecc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "science_digital_economy_AI_Analysis/未命名.md",
+                "file": "science_digital_economy_AI_Analysis/03.数字经济发展、教育、人力资本与城乡收入差距.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "03.数字经济发展、教育、人力资本与城乡收入差距"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "science_digital_economy_AI_Analysis/未命名.md",
+                "file": "science_digital_economy_AI_Analysis/03.数字经济发展、教育、人力资本与城乡收入差距.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "03.数字经济发展、教育、人力资本与城乡收入差距 的大纲"
             }
           },
           {
@@ -139,10 +123,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c821ac509a567ecc",
+  "active": "76934b3a0304b435",
   "lastOpenFiles": [
     "science_digital_economy_AI_Analysis/02.数据驱动的数字经济与城乡一体化协调与优化.md",
-    "science_digital_economy_AI_Analysis/未命名.md",
+    "science_digital_economy_AI_Analysis/03.数字经济发展、教育、人力资本与城乡收入差距.md",
     "science_digital_economy_AI_Analysis/01. 数字经济与乡村振兴耦合协调研究.md",
     "previos_works_AI_analysis/18.环境中央化与企业可持续发展：来自中国的证据.md",
     "science_digital_economy_AI_Analysis",
