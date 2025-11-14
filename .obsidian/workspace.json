@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy Economics/08.可持续增长的中国模式：清洁煤电的经济效应.md",
+                "file": "Digital Econom&Carbon Emmision&City Development/07.基于偏向性技术进步视角的数字经济碳减排效应.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "08.可持续增长的中国模式：清洁煤电的经济效应"
+              "title": "07.基于偏向性技术进步视角的数字经济碳减排效应"
             }
           }
         ]
@@ -85,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy Economics/08.可持续增长的中国模式：清洁煤电的经济效应.md",
+                "file": "Digital Econom&Carbon Emmision&City Development/07.基于偏向性技术进步视角的数字经济碳减排效应.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08.可持续增长的中国模式：清洁煤电的经济效应 的大纲"
+              "title": "07.基于偏向性技术进步视角的数字经济碳减排效应 的大纲"
             }
           },
           {
@@ -104,7 +104,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,47 +123,48 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1c9e6e00f57b75d3",
+  "active": "76934b3a0304b435",
   "lastOpenFiles": [
-    "Energy Economics/01.利用LASSO-VAR和频率分解分析气候风险传染网络：在金融中实施脱碳策略未.md",
-    "Scienc&Digital Economy&City and Countryside Integration/13.数字经济与城乡一体化的数据驱动协调与优化.md",
+    "Digital Econom&Carbon Emmision&City Development/06.碳减排发展、数字经济与中国制造业绿色转型.md",
+    "Digital Econom&Carbon Emmision&City Development/07.基于偏向性技术进步视角的数字经济碳减排效应.md",
+    "Scienc&Digital Economy&City and Countryside Integration/02.数据驱动的数字经济与城乡一体化协调与优化.md",
+    "Digital Econom&Carbon Emmision&City Development/07.数据驱动的数字经济与城乡融合协调优化研究.md",
+    "Digital Econom&Carbon Emmision&City Development/05.数字经济的双重碳排放效应：来自中国的证据.md",
+    "Digital Econom&Carbon Emmision&City Development/04.未来是数字化的：数字经济能否驱动海洋可持续性？探索中国沿海地区渔业碳减排的区域影响.md",
+    "charts/cda7bb803aec00b2014b638735b23c15_MD5.jpg",
+    "Digital Econom&Carbon Emmision&City Development/03.数字经济学、能源消费与城市碳减排：来自中国278个城市的实证证据.md",
+    "Digital Econom&Carbon Emmision&City Development/02.数字经济与中国三大城市群碳排放效率：迈向绿色发展的U型旅程.md",
+    "Digital Econom&Carbon Emmision&City Development/01.碳排放减排发展、数字经济与中国制造业绿色转型.md",
     "Scienc&Digital Economy&City and Countryside Integration/04.数字经济驱动的脱碳路径：基于投入产出和情景分析的中国3060双碳目标研究.md",
+    "Digital Econom&Carbon Emmision&City Development/02.数据驱动的数字经济与城乡一体化协调与优化.md",
+    "charts/b0ab35d19f9a2b095bbd6a99e1ecbd21_MD5.jpg",
+    "charts/b107caa15ad7e4111f5bfc48740adb82_MD5.jpg",
+    "charts/91ea0d8641e24c0217766152881d685a_MD5.jpg",
+    "Energy Economics/01.利用LASSO-VAR和频率分解分析气候风险传染网络：在金融中实施脱碳策略未.md",
+    "Energy Economics/33.五个主要能源期刊的比较文献计量分析.md",
+    "Energy Economics/scheme.md",
+    "Energy Economics/32.基于双层次模糊决策方法的印度太阳能农场选址排名.md",
+    "Energy Economics/30.基于增强子聚类的自洽聚类分析用于编织复合材料热导率的高效均匀化.md",
+    "Energy Economics/28.弥合差距：人工智能与城市能源韧性之间的关联——来自中国低碳城市的证据.md",
+    "Energy Economics/25.基于Z数的多准则决策组合权重方法.md",
+    "Energy Economics/24.数字经济与城乡一体化的数据驱动协调与优化.md",
+    "Energy Economics/08.可持续增长的中国模式：清洁煤电的经济效应.md",
+    "Scienc&Digital Economy&City and Countryside Integration/13.数字经济与城乡一体化的数据驱动协调与优化.md",
     "Digital Econom&Carbon Emmision&City Development",
     "Scienc&Digital Economy&City and Countryside Integration/03.数字经济发展、教育、人力资本与城乡收入差距.md",
     "Scienc&Digital Economy&City and Countryside Integration/digital-economy&",
     "Scienc&Digital Economy&City and Countryside Integration/06.数字经济学对能源效率的影响：人工智能等新兴技术的作用.md",
     "Scienc&Digital Economy&City and Countryside Integration/09.农村数字经济发展对农业碳排放的影响：基于中国地级市的研究.md",
     "Scienc&Digital Economy&City and Countryside Integration/11.中国城乡一体化：农村宅基地转移在不同农村地区的作用.md",
-    "Scienc&Digital Economy&City and Countryside Integration/02.数据驱动的数字经济与城乡一体化协调与优化.md",
     "Scienc&Digital Economy&City and Countryside Integration/01. 数字经济与乡村振兴耦合协调研究.md",
-    "Scienc&Digital Economy&City and Countryside Integration/07.数字经济促进养老产业发展的机制与路径研究.md",
-    "Scienc&Digital Economy&City and Countryside Integration/05.数字经济如何影响城乡收入差距？来自中国城市的证据.md",
-    "Scienc&Digital Economy&City and Countryside Integration/10.数字经济对绿色创新的空间溢出效应：基于循环经济视角的涓滴与虹吸效应分析.md",
-    "Scienc&Digital Economy&City and Countryside Integration/12.数字经济能否成功促进城乡融合发展：基于中国的案例研究.md",
-    "Energy Economics/24.数字经济与城乡一体化的数据驱动协调与优化.md",
-    "science_digital_economy_AI_Analysis/AAA数字经济与城乡一体化的数据驱动协调与优化.md",
-    "Energy Economics/14.绿色创新如何影响空气污染？基于282个中国城市的分析.md",
-    "Scienc&Digital Economy&City and Countryside Integration/08.数字经济的演变：中美比较视角，1995-2020.md",
-    "Energy Economics/18.环境中央化与企业可持续发展：来自中国的证据.md",
     "Scienc&Digital Economy&City and Countryside Integration",
     "未命名.canvas",
-    "Energy Economics/03.人工智能能力在环境管理中的作用：来自美国企业的证据.md",
-    "Energy Economics/04.遏制可持续增长中绿色清洗的途径：人工智能的作用.md",
-    "Energy Economics/15.AI如何在中国数字前沿推动ESG绩效？.md",
-    "Energy Economics/scheme.md",
-    "Energy Economics/06.温度冲击与多维能源贫困：来自马拉维的证据.md",
-    "Energy Economics/05.清洁发展机制对能源转型及其溢出效应的影响：来自中国城市的证据.md",
-    "Energy Economics/33.五个主要能源期刊的比较文献计量分析.md",
     "charts/Pasted image 20251113103912.png",
     "charts/9972c1f1827fe087ac789cab5c607d64_MD5.jpg",
     "charts/a2fe1459d46ec1c416c36e1075b5c67a_MD5.jpg",
     "charts/e1ee9da4b4088e54c35544402b1f2a19_MD5.jpg",
     "charts/3c731565d2ee5c6bd66d05d00572fb60_MD5.jpg",
     "charts/46d4868fbeaff3c0a75f8de80c4bc584_MD5.jpg",
-    "charts/9de552f53bd85c702c2f946e8c360d57_MD5.jpg",
-    "charts/06fac01a173252446ef05d7e948af6d3_MD5.jpg",
-    "charts/8f5b33b5fb8c1be3f4256a603c42534d_MD5.jpg",
-    "charts/72cfafb31d4a1f6a57fad8c2725273f0_MD5.jpg",
     "charts",
     "Excalidraw",
     "previos_works_AI_analysis/利用LASSO-VAR和频率分解分析气候风险传染网络：在金融中实施脱碳策略未",
